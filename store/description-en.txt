@@ -1,0 +1,35 @@
+ClipFlow — Modern Clipboard Manager for Windows 11
+
+SHORT DESCRIPTION (max 100 chars):
+A lightweight clipboard manager that saves everything you copy — text, images, files, and more.
+
+LONG DESCRIPTION:
+
+ClipFlow is a modern clipboard manager that lives in your system tray. It automatically captures everything you copy and lets you access, search, and reuse your clipboard history instantly.
+
+KEY FEATURES
+
+* Clipboard History — Automatically saves text, images, files, and rich content
+* Strip Card UI — Visual card-based interface for quick browsing and preview
+* Pin & Favorites — Keep important items always accessible
+* Tags & Search — Organize and find clips with tags and full-text search
+* Drag & Drop — Drag any clip directly into other applications
+* Multi-format Support — Text, RTF, HTML, images, file lists, and more
+* OCR — Extract text from images using Windows built-in OCR
+* Paste Stack — Queue multiple items and paste them in sequence
+* Rules Engine — Auto-tag or auto-pin clips based on custom rules
+* Keyboard Shortcuts — Global hotkeys for instant access
+* Auto-update — Seamless background updates
+
+HIGHLIGHTS
+
+* Built with WinUI 3 for a native Windows 11 look and feel
+* Dark theme with modern translucent UI
+* Zero data collection — all data stays on your device
+* Lightweight — minimal CPU and memory usage
+* No admin required to install or run
+
+SYSTEM REQUIREMENTS
+
+* Windows 11 22H2 or later
+* x64 processor
