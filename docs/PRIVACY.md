@@ -3,7 +3,7 @@
 **Effective Date:** April 14, 2026
 **Last Updated:** April 14, 2026
 
-BitLeader inc. ("we", "us", or "our") operates the ClipMemory application (the "App"). This Privacy Policy explains how we handle information when you use our App.
+BitLeader Corp. ("we", "us", or "our") operates the ClipMemory application (the "App"). This Privacy Policy explains how we handle information when you use our App.
 
 ## Summary
 
@@ -90,4 +90,4 @@ If you have questions about this Privacy Policy, please contact us:
 
 ---
 
-&copy; 2026 BitLeader inc. All rights reserved.
+&copy; 2026 BitLeader Corp. All rights reserved.

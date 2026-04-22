@@ -104,5 +104,5 @@ Found a bug or have a feature request? Please open an [issue](https://github.com
 ---
 
 <p align="center">
-  &copy; 2026 BitLeader inc. All rights reserved.
+  &copy; 2026 BitLeader Corp. All rights reserved.
 </p>

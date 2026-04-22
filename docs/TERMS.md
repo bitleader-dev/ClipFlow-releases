@@ -3,7 +3,7 @@
 **Effective Date:** April 14, 2026
 **Last Updated:** April 14, 2026
 
-These Terms of Service ("Terms") govern your use of the ClipMemory application ("App") provided by BitLeader inc. ("we", "us", or "our"). By installing or using the App, you agree to be bound by these Terms.
+These Terms of Service ("Terms") govern your use of the ClipMemory application ("App") provided by BitLeader Corp. ("we", "us", or "our"). By installing or using the App, you agree to be bound by these Terms.
 
 ## 1. License
 
@@ -20,7 +20,7 @@ You agree not to:
 
 ## 3. Intellectual Property
 
-The App, including all content, features, and functionality, is owned by BitLeader inc. and is protected by copyright, trademark, and other intellectual property laws. All rights not expressly granted in these Terms are reserved.
+The App, including all content, features, and functionality, is owned by BitLeader Corp. and is protected by copyright, trademark, and other intellectual property laws. All rights not expressly granted in these Terms are reserved.
 
 ## 4. Updates
 
@@ -63,4 +63,4 @@ If you have questions about these Terms, please contact us:
 
 ---
 
-&copy; 2026 BitLeader inc. All rights reserved.
+&copy; 2026 BitLeader Corp. All rights reserved.

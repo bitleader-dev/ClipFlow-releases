@@ -104,5 +104,5 @@ WinUI 3으로 제작되어 Windows 11 네이티브 경험을 제공합니다.
 ---
 
 <p align="center">
-  &copy; 2026 BitLeader inc. All rights reserved.
+  &copy; 2026 BitLeader Corp. All rights reserved.
 </p>
