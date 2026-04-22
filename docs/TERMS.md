@@ -3,7 +3,7 @@
 **Effective Date:** April 14, 2026
 **Last Updated:** April 14, 2026
 
-These Terms of Service ("Terms") govern your use of the ClipFlow application ("App") provided by BitLeader inc. ("we", "us", or "our"). By installing or using the App, you agree to be bound by these Terms.
+These Terms of Service ("Terms") govern your use of the ClipMemory application ("App") provided by BitLeader inc. ("we", "us", or "our"). By installing or using the App, you agree to be bound by these Terms.
 
 ## 1. License
 
@@ -59,7 +59,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have questions about these Terms, please contact us:
 
-- GitHub Issues: [https://github.com/bitleader-dev/ClipFlow-releases/issues](https://github.com/bitleader-dev/ClipFlow-releases/issues)
+- GitHub Issues: [https://github.com/bitleader-dev/ClipMemory-releases/issues](https://github.com/bitleader-dev/ClipMemory-releases/issues)
 
 ---
 

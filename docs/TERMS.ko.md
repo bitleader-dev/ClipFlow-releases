@@ -3,7 +3,7 @@
 **시행일:** 2026년 4월 14일
 **최종 수정일:** 2026년 4월 14일
 
-본 이용약관(이하 "약관")은 BitLeader inc.(이하 "회사")가 제공하는 ClipFlow 애플리케이션(이하 "앱")의 이용에 관한 사항을 규정합니다. 앱을 설치하거나 사용함으로써 본 약관에 동의하는 것으로 간주됩니다.
+본 이용약관(이하 "약관")은 BitLeader inc.(이하 "회사")가 제공하는 ClipMemory 애플리케이션(이하 "앱")의 이용에 관한 사항을 규정합니다. 앱을 설치하거나 사용함으로써 본 약관에 동의하는 것으로 간주됩니다.
 
 ## 1. 라이선스
 
@@ -59,7 +59,7 @@
 
 본 약관에 관한 질문이 있으시면 아래로 연락해 주세요:
 
-- GitHub Issues: [https://github.com/bitleader-dev/ClipFlow-releases/issues](https://github.com/bitleader-dev/ClipFlow-releases/issues)
+- GitHub Issues: [https://github.com/bitleader-dev/ClipMemory-releases/issues](https://github.com/bitleader-dev/ClipMemory-releases/issues)
 
 ---
 

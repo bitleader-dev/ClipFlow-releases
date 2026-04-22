@@ -1,11 +1,11 @@
-ClipFlow — Modern Clipboard Manager for Windows 11
+ClipMemory — Modern Clipboard Manager for Windows 11
 
 SHORT DESCRIPTION (max 100 chars):
 A lightweight clipboard manager that saves everything you copy — text, images, files, and more.
 
 LONG DESCRIPTION:
 
-ClipFlow is a modern clipboard manager that lives in your system tray. It automatically captures everything you copy and lets you access, search, and reuse your clipboard history instantly.
+ClipMemory is a modern clipboard manager that lives in your system tray. It automatically captures everything you copy and lets you access, search, and reuse your clipboard history instantly.
 
 KEY FEATURES
 

@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="assets/icon-256.png" width="128" alt="ClipFlow Icon" />
+  <img src="assets/icon-256.png" width="128" alt="ClipMemory Icon" />
 </p>
 
-<h1 align="center">ClipFlow</h1>
+<h1 align="center">ClipMemory</h1>
 
 <p align="center">
   <strong>Windows 11을 위한 모던 클립보드 관리자</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bitleader-dev/ClipFlow-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/bitleader-dev/ClipFlow-releases?style=flat-square" alt="Latest Release" />
+  <a href="https://github.com/bitleader-dev/ClipMemory-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/bitleader-dev/ClipMemory-releases?style=flat-square" alt="Latest Release" />
   </a>
-  <a href="https://github.com/bitleader-dev/ClipFlow-releases/releases/latest">
-    <img src="https://img.shields.io/github/downloads/bitleader-dev/ClipFlow-releases/total?style=flat-square" alt="Downloads" />
+  <a href="https://github.com/bitleader-dev/ClipMemory-releases/releases/latest">
+    <img src="https://img.shields.io/github/downloads/bitleader-dev/ClipMemory-releases/total?style=flat-square" alt="Downloads" />
   </a>
   <img src="https://img.shields.io/badge/platform-Windows%2011-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/.NET-9.0-purple?style=flat-square" alt=".NET" />
@@ -27,7 +27,7 @@
 
 ## 소개
 
-ClipFlow는 시스템 트레이에 상주하는 경량 클립보드 관리자입니다. 복사하는 모든 것 — 텍스트, 이미지, 파일 등 — 을 자동으로 저장하고, 클립보드 기록을 즉시 검색하고 재사용할 수 있습니다.
+ClipMemory는 시스템 트레이에 상주하는 경량 클립보드 관리자입니다. 복사하는 모든 것 — 텍스트, 이미지, 파일 등 — 을 자동으로 저장하고, 클립보드 기록을 즉시 검색하고 재사용할 수 있습니다.
 
 WinUI 3으로 제작되어 Windows 11 네이티브 경험을 제공합니다.
 
@@ -50,7 +50,7 @@ WinUI 3으로 제작되어 Windows 11 네이티브 경험을 제공합니다.
 <!-- TODO: 스크린샷 추가 -->
 <!--
 <p align="center">
-  <img src="assets/screenshot-main.png" width="600" alt="ClipFlow 메인 UI" />
+  <img src="assets/screenshot-main.png" width="600" alt="ClipMemory 메인 UI" />
 </p>
 -->
 
@@ -58,15 +58,15 @@ WinUI 3으로 제작되어 Windows 11 네이티브 경험을 제공합니다.
 
 ### 설치 프로그램 (권장)
 
-1. [최신 릴리즈](https://github.com/bitleader-dev/ClipFlow-releases/releases/latest)에서 **`ClipFlow-win-Setup.exe`** 다운로드
+1. [최신 릴리즈](https://github.com/bitleader-dev/ClipMemory-releases/releases/latest)에서 **`ClipMemory-win-Setup.exe`** 다운로드
 2. 설치 프로그램 실행 — 관리자 권한 불필요
-3. `%LocalAppData%\ClipFlow\`에 설치되며 바탕화면과 시작 메뉴에 바로가기 생성
+3. `%LocalAppData%\ClipMemory\`에 설치되며 바탕화면과 시작 메뉴에 바로가기 생성
 
 ### 포터블 (Portable)
 
-1. [최신 릴리즈](https://github.com/bitleader-dev/ClipFlow-releases/releases/latest)에서 **`ClipFlow-win-Portable.zip`** 다운로드
+1. [최신 릴리즈](https://github.com/bitleader-dev/ClipMemory-releases/releases/latest)에서 **`ClipMemory-win-Portable.zip`** 다운로드
 2. 원하는 폴더에 압축 해제
-3. `ClipFlow.exe` 실행
+3. `ClipMemory.exe` 실행
 
 > **참고:** 포터블 버전은 자동 업데이트를 지원하지 않습니다.
 
@@ -86,14 +86,14 @@ WinUI 3으로 제작되어 Windows 11 네이티브 경험을 제공합니다.
 
 ## 제거 방법
 
-- **설치 버전**: 설정 > 앱 > 설치된 앱 > ClipFlow > 제거
+- **설치 버전**: 설정 > 앱 > 설치된 앱 > ClipMemory > 제거
 - **포터블 버전**: 폴더를 삭제하면 됩니다
 
-앱 데이터는 `%LocalAppData%\ClipFlow\`에 저장됩니다. 이 폴더를 삭제하면 모든 설정과 기록이 제거됩니다.
+앱 데이터는 `%LocalAppData%\ClipMemory\`에 저장됩니다. 이 폴더를 삭제하면 모든 설정과 기록이 제거됩니다.
 
 ## 지원
 
-버그를 발견하셨거나 기능 요청이 있으시면 [이슈](https://github.com/bitleader-dev/ClipFlow-releases/issues)를 등록해 주세요.
+버그를 발견하셨거나 기능 요청이 있으시면 [이슈](https://github.com/bitleader-dev/ClipMemory-releases/issues)를 등록해 주세요.
 
 ## 법적 고지
 

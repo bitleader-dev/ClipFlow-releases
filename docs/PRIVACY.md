@@ -3,11 +3,11 @@
 **Effective Date:** April 14, 2026
 **Last Updated:** April 14, 2026
 
-BitLeader inc. ("we", "us", or "our") operates the ClipFlow application (the "App"). This Privacy Policy explains how we handle information when you use our App.
+BitLeader inc. ("we", "us", or "our") operates the ClipMemory application (the "App"). This Privacy Policy explains how we handle information when you use our App.
 
 ## Summary
 
-**ClipFlow does not collect, transmit, or share any personal data such as clipboard contents.** All clipboard data stays on your device. We only collect anonymous crash and error reports to improve app stability.
+**ClipMemory does not collect, transmit, or share any personal data such as clipboard contents.** All clipboard data stays on your device. We only collect anonymous crash and error reports to improve app stability.
 
 ## Information We Do NOT Collect
 
@@ -18,7 +18,7 @@ BitLeader inc. ("we", "us", or "our") operates the ClipFlow application (the "Ap
 
 ## Crash & Error Reporting (Sentry)
 
-To improve app stability, ClipFlow uses **Sentry** (Functional Software, Inc.) for automatic crash and error reporting. When an unexpected error occurs, the following **anonymous, non-personal** data is sent:
+To improve app stability, ClipMemory uses **Sentry** (Functional Software, Inc.) for automatic crash and error reporting. When an unexpected error occurs, the following **anonymous, non-personal** data is sent:
 
 | Data | Purpose |
 |------|---------|
@@ -38,24 +38,24 @@ Crash reports are processed by Sentry's EU data center (Frankfurt, Germany) and 
 
 ## Data Stored Locally
 
-ClipFlow stores the following data locally on your device:
+ClipMemory stores the following data locally on your device:
 
 | Data | Location | Purpose |
 |------|----------|---------|
-| Clipboard history | `%LocalAppData%\ClipFlow\Clipboard\` | Core functionality |
-| App settings | `%LocalAppData%\ClipFlow\settings.json` | User preferences |
-| Clipboard images | `%LocalAppData%\ClipFlow\Clipboard\images\` | Image clip storage |
-| Temporary files | `%LocalAppData%\ClipFlow\temp\` | Drag-and-drop operations |
-| Diagnostic logs | `%LocalAppData%\ClipFlow\Logs\` | Local troubleshooting |
-| Crash report cache | `%LocalAppData%\ClipFlow\sentry-cache\` | Offline crash report buffer |
+| Clipboard history | `%LocalAppData%\ClipMemory\Clipboard\` | Core functionality |
+| App settings | `%LocalAppData%\ClipMemory\settings.json` | User preferences |
+| Clipboard images | `%LocalAppData%\ClipMemory\Clipboard\images\` | Image clip storage |
+| Temporary files | `%LocalAppData%\ClipMemory\temp\` | Drag-and-drop operations |
+| Diagnostic logs | `%LocalAppData%\ClipMemory\Logs\` | Local troubleshooting |
+| Crash report cache | `%LocalAppData%\ClipMemory\sentry-cache\` | Offline crash report buffer |
 
 This data (except crash reports) is stored only on your device and is never transmitted to any server.
 
 ## Network Communication
 
-ClipFlow makes the following network requests:
+ClipMemory makes the following network requests:
 
-- **Update check**: On startup, the App contacts the GitHub Releases API (`api.github.com`) to check for new versions. This request includes only the App's user agent string ("ClipFlow-Updater") and does not transmit any personal data.
+- **Update check**: On startup, the App contacts the GitHub Releases API (`api.github.com`) to check for new versions. This request includes only the App's user agent string ("ClipMemory-Updater") and does not transmit any personal data.
 - **Update download**: When an update is available, the App downloads the update package from GitHub.
 - **Crash reporting**: When an error occurs, an anonymous crash report is sent to Sentry (`ingest.de.sentry.io`). See "Crash & Error Reporting" section above.
 
@@ -69,14 +69,14 @@ No other network communication occurs.
 
 ## Data Deletion
 
-To delete all data stored by ClipFlow:
+To delete all data stored by ClipMemory:
 
 1. Uninstall the application
-2. Delete the folder `%LocalAppData%\ClipFlow\`
+2. Delete the folder `%LocalAppData%\ClipMemory\`
 
 ## Children's Privacy
 
-ClipFlow does not knowingly collect any information from children under the age of 13.
+ClipMemory does not knowingly collect any information from children under the age of 13.
 
 ## Changes to This Policy
 
@@ -86,7 +86,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy, please contact us:
 
-- GitHub Issues: [https://github.com/bitleader-dev/ClipFlow-releases/issues](https://github.com/bitleader-dev/ClipFlow-releases/issues)
+- GitHub Issues: [https://github.com/bitleader-dev/ClipMemory-releases/issues](https://github.com/bitleader-dev/ClipMemory-releases/issues)
 
 ---
 

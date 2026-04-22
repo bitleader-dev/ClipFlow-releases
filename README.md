@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="assets/icon-256.png" width="128" alt="ClipFlow Icon" />
+  <img src="assets/icon-256.png" width="128" alt="ClipMemory Icon" />
 </p>
 
-<h1 align="center">ClipFlow</h1>
+<h1 align="center">ClipMemory</h1>
 
 <p align="center">
   <strong>A modern clipboard manager for Windows 11</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bitleader-dev/ClipFlow-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/bitleader-dev/ClipFlow-releases?style=flat-square" alt="Latest Release" />
+  <a href="https://github.com/bitleader-dev/ClipMemory-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/bitleader-dev/ClipMemory-releases?style=flat-square" alt="Latest Release" />
   </a>
-  <a href="https://github.com/bitleader-dev/ClipFlow-releases/releases/latest">
-    <img src="https://img.shields.io/github/downloads/bitleader-dev/ClipFlow-releases/total?style=flat-square" alt="Downloads" />
+  <a href="https://github.com/bitleader-dev/ClipMemory-releases/releases/latest">
+    <img src="https://img.shields.io/github/downloads/bitleader-dev/ClipMemory-releases/total?style=flat-square" alt="Downloads" />
   </a>
   <img src="https://img.shields.io/badge/platform-Windows%2011-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/.NET-9.0-purple?style=flat-square" alt=".NET" />
@@ -27,7 +27,7 @@
 
 ## About
 
-ClipFlow is a lightweight clipboard manager that lives in your system tray. It automatically captures everything you copy — text, images, files, and more — and lets you access, search, and reuse your clipboard history instantly.
+ClipMemory is a lightweight clipboard manager that lives in your system tray. It automatically captures everything you copy — text, images, files, and more — and lets you access, search, and reuse your clipboard history instantly.
 
 Built with WinUI 3 for a native Windows 11 experience.
 
@@ -50,7 +50,7 @@ Built with WinUI 3 for a native Windows 11 experience.
 <!-- TODO: Add screenshots -->
 <!--
 <p align="center">
-  <img src="assets/screenshot-main.png" width="600" alt="ClipFlow Main UI" />
+  <img src="assets/screenshot-main.png" width="600" alt="ClipMemory Main UI" />
 </p>
 -->
 
@@ -58,15 +58,15 @@ Built with WinUI 3 for a native Windows 11 experience.
 
 ### Installer (Recommended)
 
-1. Download **`ClipFlow-win-Setup.exe`** from the [latest release](https://github.com/bitleader-dev/ClipFlow-releases/releases/latest)
+1. Download **`ClipMemory-win-Setup.exe`** from the [latest release](https://github.com/bitleader-dev/ClipMemory-releases/releases/latest)
 2. Run the installer — no admin required
-3. ClipFlow installs to `%LocalAppData%\ClipFlow\` and creates shortcuts on Desktop and Start Menu
+3. ClipMemory installs to `%LocalAppData%\ClipMemory\` and creates shortcuts on Desktop and Start Menu
 
 ### Portable
 
-1. Download **`ClipFlow-win-Portable.zip`** from the [latest release](https://github.com/bitleader-dev/ClipFlow-releases/releases/latest)
+1. Download **`ClipMemory-win-Portable.zip`** from the [latest release](https://github.com/bitleader-dev/ClipMemory-releases/releases/latest)
 2. Extract to any folder
-3. Run `ClipFlow.exe`
+3. Run `ClipMemory.exe`
 
 > **Note:** The portable version does not support auto-updates.
 
@@ -86,14 +86,14 @@ Built with WinUI 3 for a native Windows 11 experience.
 
 ## Uninstall
 
-- **Installer version**: Settings > Apps > Installed apps > ClipFlow > Uninstall
+- **Installer version**: Settings > Apps > Installed apps > ClipMemory > Uninstall
 - **Portable version**: Simply delete the folder
 
-App data is stored in `%LocalAppData%\ClipFlow\` — delete this folder to remove all settings and history.
+App data is stored in `%LocalAppData%\ClipMemory\` — delete this folder to remove all settings and history.
 
 ## Support
 
-Found a bug or have a feature request? Please open an [issue](https://github.com/bitleader-dev/ClipFlow-releases/issues).
+Found a bug or have a feature request? Please open an [issue](https://github.com/bitleader-dev/ClipMemory-releases/issues).
 
 ## Legal
 

@@ -8,13 +8,13 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in ClipFlow, please report it responsibly.
+If you discover a security vulnerability in ClipMemory, please report it responsibly.
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
 Instead, please email us at: **security@bitleader.dev**
 
-Or use [GitHub Security Advisories](https://github.com/bitleader-dev/ClipFlow-releases/security/advisories/new) to report the vulnerability privately.
+Or use [GitHub Security Advisories](https://github.com/bitleader-dev/ClipMemory-releases/security/advisories/new) to report the vulnerability privately.
 
 ### What to include
 
@@ -32,7 +32,7 @@ Or use [GitHub Security Advisories](https://github.com/bitleader-dev/ClipFlow-re
 ### Scope
 
 The following are in scope:
-- ClipFlow desktop application
+- ClipMemory desktop application
 - Auto-update mechanism
 - Local data storage security
 
@@ -42,6 +42,6 @@ The following are out of scope:
 
 ## Data Handling
 
-ClipFlow stores clipboard data locally on your device at `%LocalAppData%\ClipFlow\`. No clipboard data is transmitted to external servers. The only network communication is checking for updates via GitHub Releases API.
+ClipMemory stores clipboard data locally on your device at `%LocalAppData%\ClipMemory\`. No clipboard data is transmitted to external servers. The only network communication is checking for updates via GitHub Releases API.
 
 For more details, see our [Privacy Policy](docs/PRIVACY.md).

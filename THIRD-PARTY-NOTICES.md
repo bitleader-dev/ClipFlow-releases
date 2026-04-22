@@ -1,6 +1,6 @@
 # Third-Party Software Notices
 
-ClipFlow incorporates third-party open source software components. The following
+ClipMemory incorporates third-party open source software components. The following
 is a list of these components and their associated licenses.
 
 ---
